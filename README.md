@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yaroslav Sukhodiy and I'm Senior Software Engineering Manager.
+- 👋 Hi, I’m Yaroslav Sukhodiy and I'm Senior Engineering Leader.
 - 👀 I’m interested in Golang, Rust, Distributed Systems, Cloud, Infrastructure and AI/ML.
 - 🌱 I’m looking to collaborate on any topic described in the previous item.
 - 📫 You can reach me via my [LinkedIn](https://www.linkedin.com/in/sukhodiy/ "Yaroslav Sukhodiy | LinkedIn"). 
